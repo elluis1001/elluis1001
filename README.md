@@ -16,6 +16,6 @@ Cloud platforms for scalable data analysis and deployment
 📊 Projects
 Here are some projects I've worked on:
 
-Project 1: Short project description
+Project 1: Dat Portfolio of various; Excel - A.I.
 Project 2: Short project description
 Project 3: Short project description
