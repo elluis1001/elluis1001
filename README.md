@@ -18,4 +18,4 @@ Here are some projects I've worked on:
 
 Project 1: Data Portfolio of various; Excel - A.I.
 Project 2: Group Project with python and matplotlib
-Project 3: Short project description
+
