@@ -1,4 +1,4 @@
-I'm a passionate Data Scientist/Analyst with a strong foundation in statistical analysis, machine learning, and data visualization. I'm dedicated to leveraging data-driven insights to solve complex problems and drive informed decision-making.
+Passionate Data Scientist/Analyst with a strong foundation in statistical analysis, machine learning, and data visualization. I'm dedicated to leveraging data-driven insights to solve complex problems and drive informed decision-making.
 
 🔬 Skills
 Languages: Python, SQL 
