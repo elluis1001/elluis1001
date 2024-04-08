@@ -8,8 +8,4 @@ Data Visualization: Matplotlib, Seaborn, Plotly, Tableau
 Big Data Technologies: Apache Spark, Hadoop
 Version Control: Git, GitHub
 🌱 Currently Learning
-I'm always expanding my skillset and exploring new technologies. Currently, I'm focused on:
-
-Deep learning techniques and neural networks
-Advanced statistical modeling and inference methods
-Cloud platforms for scalable data analysis and deployment
+I'm always expanding my skillset and exploring new technologies.
