@@ -13,9 +13,3 @@ I'm always expanding my skillset and exploring new technologies. Currently, I'm 
 Deep learning techniques and neural networks
 Advanced statistical modeling and inference methods
 Cloud platforms for scalable data analysis and deployment
-📊 Projects
-Here are some projects I've worked on:
-
-Project 1: Data Portfolio of various; Excel - A.I.
-Project 2: Group Project with python and matplotlib
-
